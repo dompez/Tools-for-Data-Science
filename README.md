@@ -22,12 +22,16 @@ Bold text can be typed using a **triple** asterisk '***' or double underscore'__
 
 **Hyperlink**
 A hyperlink can be place using the format:
+
 [Name of the link](link url)
+
 Where the 'Name of the link' is the clickable text and the link url is where it takes you.
 
 **Images**
 An image can be placed using the format:
+
 Name of the image: ![alt text](PATH)
+
 Where 'Name of the image' will be the name, [alt text] is additional text, and (PATH) is where the image comes from. 
 
 **Markdown Tables**
