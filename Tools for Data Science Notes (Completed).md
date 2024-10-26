@@ -21,23 +21,19 @@ Bold text can be typed using a **double** asterisk '**' or double underscore'__'
 Bold text can be typed using a **triple** asterisk '***' or double underscore'___' on both sides of a piece of text.
 
 **Hyperlink**
-A hyperlink can be place using the format:
-
+-A hyperlink can be place using the format:
 [Name of the link](link url)
-
-Where the 'Name of the link' is the clickable text and the link url is where it takes you.
+-Where the 'Name of the link' is the clickable text and the link url is where it takes you.
 
 **Images**
-An image can be placed using the format:
-
+-An image can be placed using the format:
 Name of the image: ![alt text](PATH)
-
-Where 'Name of the image' will be the name, [alt text] is additional text, and (PATH) is where the image comes from. 
+-Where 'Name of the image' will be the name, [alt text] is additional text, and (PATH) is where the image comes from. 
 
 **Markdown Tables**
-Hyphens create headers: (-----)
-Pipes seperate columns: |
-Text on a new line seperates rows.
+-Hyphens create headers: (-----)
+-Pipes seperate columns: |
+-Text on a new line seperates rows.
 Example: 
 | Country Name | Capital |
 | -------------| ------ |
@@ -62,9 +58,8 @@ Example:
 + Second item using plus
 + Third item using plus
 + Fourth item using plus
-
 **Ordered List**
-Use numbers in descending order.
+-Use numbers in descending order.
 Example:
 1. First item
 2. Second item
